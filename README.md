@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Hassan-057
+- 👋 Hi, I’m Hassan Bashir
 - 👀 I’m interested in computer programing
-- 🌱 I’m currently learning computer science
+- 🌱 Bachelor's of Science in Computer Science
+- Throughout my journey, I've embraced every opportunity to expand my skill set and embrace new technologies. From coding to project management, I bring a versatile skill set and a commitment to excellence. Let's embark on this exciting journey together, pushing boundaries and shaping the future of technology.
 - 📫 How to reach me bashir.hassan057@gmail.com
 
 <!---
